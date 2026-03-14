@@ -59,7 +59,7 @@ BOARD = ERROR
 endif
 endif
 
-PREFIX=riscv64-unknown-elf
+PREFIX=riscv64-elf
 CC = $(PREFIX)-gcc
 OBJCOPY = $(PREFIX)-objcopy
 OBJDUMP = $(PREFIX)-objdump
