@@ -35,7 +35,7 @@
 
 
 # Change memory size here
-SRAM_ADDR_WIDTH = 13
+SRAM_ADDR_WIDTH = 14
 
 # CLK_FREQ tells both software and Verilog the clock speed.  Change it
 # here in this makefile only.  Program conv_to_init finds rPLL parameters
